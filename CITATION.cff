@@ -7,9 +7,10 @@ authors:
     given-names: "Francisco"
 version: 1.0.0
 date-released: 2026-11-05
+doi: 10.5281/zenodo.23986472
 license: MIT
 repository-code: "https://github.com/MisfoldERMind/zebrafish-histology-image-processing"
-url: "https://github.com/MisfoldERMind/zebrafish-histology-image-processing"
+url: "https://doi.org/10.5281/zenodo.23986472"
 keywords:
   - zebrafish
   - histology
