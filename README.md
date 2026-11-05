@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1447312149.svg)](https://doi.org/10.5281/zenodo.23986471)
+
 # Reproducible ImageJ macros for zebrafish brain histology
 
 ImageJ/Fiji macros used for reproducible and standardised visual processing of bright-field histological images from adult zebrafish brain sections stained with haematoxylin-eosin (H&E) or Nissl stains.
@@ -60,9 +62,13 @@ Because some parameters are acquisition-specific (for example optical centre coo
 
 ## Citation
 
-For posters, manuscripts or supplementary methods, cite this GitHub repository together with the ImageJ/Fiji version used.
+For reproducibility, cite the archived software release corresponding to the version used:
 
-For archival publication, a tagged release can subsequently be deposited in Zenodo to obtain a permanent DOI.
+**Version v1.0.0:** https://doi.org/10.5281/zenodo.23986472
+
+The repository-level (concept) DOI is https://doi.org/10.5281/zenodo.23986471 and resolves to the latest archived release.
+
+For posters, manuscripts or supplementary methods, report the ImageJ/Fiji version used together with the archived software DOI.
 
 ## Licence
 
